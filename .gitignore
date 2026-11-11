@@ -1,0 +1,4 @@
+tools/node_modules/
+tools/libs/
+*.mp4
+*.wav
